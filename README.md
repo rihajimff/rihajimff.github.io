@@ -1,4 +1,4 @@
-# rihajimff.github.io
+
 title: Jirka
 theme: jekyll-theme-minimalx
 title: Octocat's homepage

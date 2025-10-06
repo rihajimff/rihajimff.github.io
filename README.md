@@ -1,4 +1,5 @@
 # rihajimff.github.io
-theme: jekyll-theme-minimal
+title: Jirka
+theme: jekyll-theme-minimalx
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!

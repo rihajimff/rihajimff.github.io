@@ -7,13 +7,11 @@
 | E-mail   | jirka-sirka@atlas.cz |
 
 # Vzdělání
-Vystudovál jsem Gymnázium Teplice, nyní jsem student třetího ročníku Matematicko fyzikální fakulty na Karlově univerzitě
+Vystudovál jsem Gymnázium Teplice, nyní jsem student třetího ročníku Matematicko fyzikální fakulty na Karlově univerzitě na oboru matematické modelování
 
 # Životopis
 
-## 📄 Stažení souboru
-
-[Stáhnout dokument (PDF)](files/životopis (1).pdf)
+[Životopis (PDF)](files/životopis (1).pdf)
 
 # Koníčky
-Haji fotbal za Tj sokol Srbice
+Hraji fotbal za Tj sokol Srbice

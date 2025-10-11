@@ -1,2 +1,11 @@
  title: Jiří Říha
  remote_theme: Minimal
+<style>
+body {
+  background-image: url("hezký obrázek.pdf");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+</style>

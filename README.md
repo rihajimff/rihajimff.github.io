@@ -1,6 +1,5 @@
 
 # Základní informace
-## Table
 
 | Věk      | 21                   |
 | Bydliště | Teplice              |

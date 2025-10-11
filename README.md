@@ -7,8 +7,7 @@
 | E-mail   | jirka-sirka@atlas.cz |
 
 # Vzdělání
-Vystudováno Gymnázium Teplice
-Nyní jsem student třetího ročníku Matematicko fyzikální fakulty na Karlově univerzitě
+Vystudovál jsem Gymnázium Teplice, nyní jsem student třetího ročníku Matematicko fyzikální fakulty na Karlově univerzitě
 
 # Životopis
 

@@ -11,7 +11,7 @@ Vystudovál jsem Gymnázium Teplice, nyní jsem student třetího ročníku Mate
 
 # Životopis
 
-[Životopis (PDF)](files/životopis (1).pdf)
+[Životopis (PDF)](životopis (1).pdf)
 
 # Koníčky
 Hraji fotbal za Tj sokol Srbice

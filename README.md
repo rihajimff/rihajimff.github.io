@@ -1,6 +1,4 @@
 
-# title: Jiří Říha
-# remote_theme: Minimal
 # Základní informace
 ## Table
 
